@@ -1,0 +1,29 @@
+:root {
+  --background-color: #573824;
+  --surface-color: #F0E8C2;
+  --text-color-primary: #291B1A;
+  --text-color-secondary: #573A37;
+  --text-color-on-bg: #F0E8C2;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Alice', serif;
+}
+
+.heading-1 {
+  font-size: 40px;
+  line-height: 140%;
+}
+
+.heading-2 {
+  font-size: 24px;
+  line-height: 150%;
+}
+
+.paragraph {
+  font-size: 16px;
+  line-height: 150%;
+}
